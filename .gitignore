@@ -1,0 +1,10 @@
+# Her şeyi hariç tut
+*
+
+# Sadece bu dosyalara izin ver
+!admin.php
+!index.php
+!veriler.txt
+
+# .gitignore kendisi
+!.gitignore

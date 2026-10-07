@@ -1,0 +1,330 @@
+{
+    "genel": {
+        "site_adi": "Dyt. Ayşe Kaya",
+        "logo_ikon": "fa-solid fa-notes-medical",
+        "ana_renk": "#13621d",
+        "sayfa_basligi": "Dyt. Ayşe Kaya | Diyetisyen - İzmit / Kocaeli",
+        "site_aciklamasi": "İzmit'te ve online diyetisyen hizmeti: kilo yönetimi, hastalıklarda beslenme, spor, çocuk ve hamile beslenmesi. Dyt. Ayşe Kaya ile sağlıklı yaşama başlayın.",
+        "whatsapp": "905454257827",
+        "whatsapp_mesaj": "Merhaba, diyet programı hakkında bilgi almak istiyorum.",
+        "gorsel_hizlandir": true
+    },
+    "menu": {
+        "anasayfa": {
+            "yazi": "Ana Sayfa",
+            "goster": true
+        },
+        "hizmetler": {
+            "yazi": "Hizmetler",
+            "goster": true
+        },
+        "galeri": {
+            "yazi": "Galeri",
+            "goster": true
+        },
+        "hakkinda": {
+            "yazi": "Hakkında",
+            "goster": true
+        },
+        "blog": {
+            "yazi": "Blog",
+            "goster": true
+        },
+        "yorumlar": {
+            "yazi": "Yorumlarımız",
+            "goster": true
+        },
+        "sss": {
+            "yazi": "S.S.S.",
+            "goster": true
+        },
+        "iletisim": {
+            "yazi": "İletişim",
+            "goster": true
+        },
+        "whatsapp": {
+            "yazi": "Whatsapp Linki",
+            "goster": true
+        }
+    },
+    "hero": {
+        "slaytlar": [
+            {
+                "ust_baslik": "Uzman Diyetisyen",
+                "baslik": "Sağlıklı Kilo Verme",
+                "aciklama": "Dyt. Ayşe Kaya ile zindeliğe doğru",
+                "gorsel": "https://stucv.com/uk/1/uploads/galeri_20261005_170819_79089f0a.png",
+                "buton_yazi": "Bizi Tanıyın",
+                "buton_link": "#hakkinda"
+            },
+            {
+                "ust_baslik": "Her Zaman Yanınızdayız",
+                "baslik": "Whatsapp Desteği",
+                "aciklama": "Motivasyonel olarak sizi hep yüksek tutacak iletişim",
+                "gorsel": "https://stucv.com/uk/1/uploads/galeri_20261005_170927_41fefce4.png",
+                "buton_yazi": "",
+                "buton_link": ""
+            },
+            {
+                "ust_baslik": "İzmit / Kocaeli",
+                "baslik": "İzmit Merkezdeyiz",
+                "aciklama": "İzmit'te çarşıda bulunan şubemiz ile merkezdeyiz. Dilerseniz online olarak da hizmet alabilirsiniz.",
+                "gorsel": "https://stucv.com/uk/1/uploads/galeri_20261005_171615_895c1798.png",
+                "buton_yazi": "Haritada Göster",
+                "buton_link": "#iletisim"
+            }
+        ],
+        "kart1_sayi": "500+",
+        "kart1_yazi": "Mutlu Danışan",
+        "kart2_sayi": "%98",
+        "kart2_yazi": "Memnuniyet"
+    },
+    "hizmetler": {
+        "ust_baslik": "Neler Yapıyoruz?",
+        "baslik": "Hizmetlerimiz",
+        "aciklama": "Size özel hazırlanan, sürdürülebilir ve bilimsel temelli beslenme programları.",
+        "liste": [
+            {
+                "ikon": "fa-solid fa-weight-scale",
+                "baslik": "Kilo Yönetimi",
+                "aciklama": "Bireysel beslenme planları ile sağlıklı kilo verme ve kilo alma programları sunuyoruz."
+            },
+            {
+                "ikon": "fa-solid fa-heart-pulse",
+                "baslik": "Hastalık Diyetleri",
+                "aciklama": "Diyabet, kalp hastalıkları ve metabolik bozukluklar için özel beslenme programları."
+            },
+            {
+                "ikon": "fa-solid fa-person-running",
+                "baslik": "Spor Beslenmesi",
+                "aciklama": "Sporcu performansını artırmak için özel beslenme stratejileri ve supplement önerileri."
+            },
+            {
+                "ikon": "fa-solid fa-baby",
+                "baslik": "Çocuk Beslenmesi",
+                "aciklama": "Büyüme çağındaki çocuklar için sağlıklı gelişim odaklı beslenme planları."
+            },
+            {
+                "ikon": "fa-solid fa-person-pregnant",
+                "baslik": "Hamile Beslenmesi",
+                "aciklama": "Hamilelik döneminde anne ve bebek sağlığı için özel beslenme danışmanlığı."
+            },
+            {
+                "ikon": "fa-solid fa-laptop-medical",
+                "baslik": "Online Danışmanlık",
+                "aciklama": "Uzaktan beslenme danışmanlığı ve takip hizmetleri ile her yerden destek alın."
+            }
+        ]
+    },
+    "vki": {
+        "goster": true,
+        "ust_baslik": "VKİ Hesaplama",
+        "baslik": "Vücut Kitle *İndeksinizi* Hesaplayın",
+        "aciklama": "Boyunuzu ve kilonuzu girin; vücut kitle indeksinizi ve boyunuza göre sağlıklı kilo aralığınızı hemen öğrenin.",
+        "buton_yazi": "Sonucumu Diyetisyene Gönder",
+        "uyari": "VKİ, 18 yaş üstü yetişkinler için genel bir göstergedir. Kas oranı, yaş, hamilelik ve sağlık durumunuz kesin değerlendirme için ayrıca ele alınmalıdır."
+    },
+    "istatistik": {
+        "goster": true,
+        "baslik": "Sayılarla *Başarılarımız*",
+        "liste": [
+            {
+                "on_ek": "",
+                "sayi": "500",
+                "son_ek": "+",
+                "etiket": "Mutlu Danışan"
+            },
+            {
+                "on_ek": "",
+                "sayi": "5",
+                "son_ek": "+",
+                "etiket": "Yıllık Deneyim"
+            },
+            {
+                "on_ek": "",
+                "sayi": "1200",
+                "son_ek": "+",
+                "etiket": "Başarılı Program"
+            },
+            {
+                "on_ek": "%",
+                "sayi": "98",
+                "son_ek": "",
+                "etiket": "Memnuniyet"
+            }
+        ]
+    },
+    "galeri": {
+        "ust_baslik": "Videolar & Fotoğraflar",
+        "baslik": "Galeri",
+        "aciklama": "Beslenme önerilerini anlattığımız videolar ve ofisimizden kareler.",
+        "liste": [
+            {
+                "tur": "video",
+                "baslik": "Diyetisyen Kimdir?",
+                "adres": "https://www.youtube.com/watch?v=mSh32aSM1do"
+            },
+            {
+                "tur": "video",
+                "baslik": "Yeme İsteğini Bastırmanın Yolları",
+                "adres": "https://www.youtube.com/watch?v=daEo_UJN8O0"
+            },
+            {
+                "tur": "video",
+                "baslik": "1 Haftada 5 Kilo Verme Yöntemi",
+                "adres": "https://www.youtube.com/watch?v=3hCUUFklmj8"
+            },
+            {
+                "tur": "video",
+                "baslik": "Neden Sürekli Yorgunum?",
+                "adres": "https://www.youtube.com/watch?v=bliG6rMU8kk"
+            },
+            {
+                "tur": "video",
+                "baslik": "Açlık Vücudu Yeniler mi?",
+                "adres": "https://www.youtube.com/watch?v=RDkvqH0Xc_Y"
+            },
+            {
+                "tur": "video",
+                "baslik": "1 Ayda 5-8 Kilo Vermek",
+                "adres": "https://www.youtube.com/watch?v=SRYS8AieucM"
+            },
+            {
+                "tur": "resim",
+                "baslik": "Danışmanlık Ofisimiz",
+                "adres": "https://stucv.com/uk/1/uploads/galeri_20260925_151747_7ef7d84b.png"
+            },
+            {
+                "tur": "resim",
+                "baslik": "Sağlıklı Beslenme",
+                "adres": "https://stucv.com/uk/1/uploads/galeri_20260925_151801_2edaba0d.png"
+            }
+        ]
+    },
+    "hakkinda": {
+        "baslik": "Hakkında",
+        "isim": "Dyt. Ayşe Kaya",
+        "unvan": "Diyetisyen & Beslenme Danışmanı",
+        "gorsel": "https://stucv.com/uk/1/uploads/galeri_20260925_151641_4385f5be.png",
+        "metin": "Dyt. Ayşe Kaya 2017 yılında Ankara Üniversitesi Beslenme ve Diyetetik lisans programını 'İştah-Glisemik Yük ve Kan Şekerleri Arasında İlişki' teziyle tamamlamıştır. Lisans eğitiminin ardından yabancı danışanlara da ulaşabilmek adına EC Bristol adlı kurumda İngiltere'de dil eğitimi almıştır.\n\nAnkara ve İstanbul'da pek çok eğitim ve sertifika programına katılmaya devam etmiştir. Mart 2018 tarihinde Sofit Beslenme ve Diyet Danışmanlığı'nı kurmuş ve bu tarihten itibaren pek çok hastalıkta beslenme tedavisi, zayıflama ve kilo alma gibi konularda danışmanlık yapmaya devam etmektedir.",
+        "one_cikanlar": "Ankara Üniversitesi Beslenme ve Diyetetik\nİngiltere'de dil eğitimi (EC Bristol)\n2018'den beri danışmanlık\nYüz yüze ve online görüşme",
+        "rozet_sayi": "5+",
+        "rozet_yazi": "Yıllık Deneyim"
+    },
+    "blog": {
+        "ust_baslik": "Beslenme Rehberi",
+        "baslik": "Blog *Yazıları*",
+        "aciklama": "Sağlıklı yaşam için bilmeniz gerekenleri sade bir dille anlatıyoruz.",
+        "liste": [
+            {
+                "baslik": "Sağlıklı Kilo Vermenin 7 Altın Kuralı",
+                "tarih": "5 Ekim 2026",
+                "ikon": "fa-solid fa-apple-whole",
+                "gorsel": "",
+                "ozet": "Sürdürülebilir kilo kaybı için bilmeniz gereken temel prensipleri ve pratik önerilerimi keşfedin.",
+                "icerik": "Sağlıklı kilo vermek, kısa sürede çok kilo vermekten değil, sürdürülebilir alışkanlıklar kazanmaktan geçer. İşte sağlıklı bir şekilde kilo vermenize yardımcı olacak 7 temel kural:\n\n**1. Dengeli beslenin:** Protein, sebze, meyve, tam tahıllar ve sağlıklı yağları dengeli tüketin.\n\n**2. Porsiyonlarınızı kontrol edin:** Sağlıklı besinlerde bile miktar önemlidir.\n\n**3. Yeterli su için:** Gün boyunca düzenli olarak su tüketmeye özen gösterin.\n\n**4. Şekerli ve işlenmiş gıdaları azaltın:** Paketli atıştırmalıklar ve şekerli içecekleri sınırlayın.\n\n**5. Hareket edin:** Düzenli yürüyüş ve egzersizi günlük yaşamınızın bir parçası haline getirin.\n\n**6. Yeterince uyuyun:** Kaliteli uyku, iştah ve enerji dengesinin korunmasına yardımcı olur.\n\n**7. Sabırlı ve istikrarlı olun:** Kalıcı sonuçlar için hızlı çözümler yerine sürdürülebilir bir yaşam tarzı oluşturun.\n\n**Unutmayın:** Amaç yalnızca tartıdaki sayıyı düşürmek değil, daha sağlıklı ve enerjik bir yaşam sürmektir."
+            },
+            {
+                "baslik": "Metabolizmayı Hızlandıran Besinler",
+                "tarih": "5 Ekim 2026",
+                "ikon": "fa-solid fa-carrot",
+                "gorsel": "",
+                "ozet": "Metabolik hızınızı doğal yollarla artıracak süper besinleri ve tüketim şekillerini öğrenelim.",
+                "icerik": "Metabolizma hızı; yaş, genetik, kas kütlesi, fiziksel aktivite ve beslenme gibi birçok faktörden etkilenir. Tek bir besin metabolizmayı mucizevi şekilde hızlandırmaz. Ancak bazı besinler enerji harcamasını ve tokluk hissini destekleyebilir.\n\n• **Yumurta:** Yüksek kaliteli protein içerir ve uzun süre tok kalmaya yardımcı olabilir.\n• **Yoğurt ve kefir:** Protein açısından zengindir ve dengeli beslenmenin bir parçası olabilir.\n• **Balık:** Protein ve sağlıklı yağlar açısından iyi bir seçenektir.\n• **Acı biber:** İçerdiği kapsaisin nedeniyle enerji harcaması üzerinde küçük bir etkiye sahip olabilir.\n• **Yeşil çay:** İçerdiği kateşinler ve kafein nedeniyle metabolizma üzerinde sınırlı bir etki gösterebilir.\n• **Kahve:** Kafein kısa süreli olarak enerji harcamasını artırabilir.\n• **Kuruyemişler:** Protein, lif ve sağlıklı yağlar içerir. Ancak yüksek kalorili oldukları için porsiyon kontrolü önemlidir.\n\n**En önemlisi:** Metabolizmayı desteklemenin en etkili yolu tek bir besine odaklanmak yerine yeterli protein almak, düzenli hareket etmek, kas kütlesini korumak ve dengeli beslenmektir."
+            },
+            {
+                "baslik": "Spor Öncesi ve Sonrası Beslenme",
+                "tarih": "5 Ekim 2026",
+                "ikon": "fa-solid fa-dumbbell",
+                "gorsel": "",
+                "ozet": "Antrenman performansınızı maksimize etmek için doğru zamanlama ile beslenme stratejileri.",
+                "icerik": "Spor yaparken doğru beslenmek, performansı desteklemek ve egzersiz sonrasında toparlanmayı kolaylaştırmak için önemlidir. Öğünlerin içeriği ve zamanlaması kişisel ihtiyaçlara göre değişebilir.\n\n**Spor Öncesi Beslenme**\nSpor öncesinde enerji sağlayan ve sindirimi kolay besinler tercih edilmelidir. Muz, yulaf, yoğurt, tam tahıllı ekmek ve yumurta gibi besinler uygun seçenekler olabilir. Çok yağlı ve ağır yemekleri egzersizden hemen önce tüketmekten kaçınmak faydalıdır.\n\n**Spor Sonrası Beslenme**\nEgzersiz sonrasında kasların toparlanmasını desteklemek için protein ve karbonhidrat içeren dengeli bir öğün tercih edilebilir. Yoğurt ve meyve, yumurta ve tam tahıllı ekmek veya tavuk ve pilav gibi seçenekler değerlendirilebilir. Ayrıca egzersiz sırasında ve sonrasında yeterli sıvı almak önemlidir.\n\n**Unutmayın:** Doğru beslenme, düzenli egzersiz ve yeterli dinlenme birlikte değerlendirildiğinde daha sürdürülebilir sonuçlar elde edilmesine yardımcı olur."
+            }
+        ]
+    },
+    "yorumlar": {
+        "ust_baslik": "Yorumlarımız",
+        "baslik": "Danışan *Yorumları*",
+        "aciklama": "Birlikte yol yürüdüğümüz danışanlarımızın deneyimleri.",
+        "liste": [
+            {
+                "isim": "Elif Özkan",
+                "yorum": "Ayşe Hanım'ı evime yakın olduğu için tercih etmiştim, iyi ki de tercih etmişim. Daha önce birçok kilo verme sürecine girdim ama en başarılısı Ayşe Hanım'la oldu. Metabolizmamın yavaş olmasına ve insülin direncime rağmen 3 ayda spor yapmadan 10 kilo verdim. Sağlıklı kilo vermek isteyen herkese Ayşe Hanım'ı tavsiye ederim."
+            },
+            {
+                "isim": "Ahmet Yılmaz",
+                "yorum": "Tavsiye üzerine gittiğimiz Diyetisyen Ayşe Hanım sayesinde kızım 3 haftada 2 kiloya yakın zayıfladı. Bu süreçte Ayşe Hanım'ın şüphesi üzerine yaptırdığımız tahlillerde demir ve D vitamini eksikliğini öğrendik. Kızım hem zayıfladı hem de takviyelere başladı. Tatlı dilli, ilgili ve bilgili Ayşe Hanım'ı ihtiyacı olan herkese tavsiye ediyoruz."
+            },
+            {
+                "isim": "Can Demir",
+                "yorum": "Spor performansım çok arttı. Ayşe Hanım'ın önerdiği beslenme programı sayesinde hedeflediğim kas kütlesine ulaştım."
+            },
+            {
+                "isim": "Aylin Kaya",
+                "yorum": "Hamilelik sürecimde çok destek oldular. Hem kendim hem de bebeğim için en sağlıklı beslenmeyi sağladım."
+            },
+            {
+                "isim": "Murat Şahin",
+                "yorum": "Online danışmanlık hizmeti harika! Evden çıkmadan profesyonel destek almak çok pratik."
+            }
+        ]
+    },
+    "sss": {
+        "ust_baslik": "S.S.S.",
+        "baslik": "Sık Sorulan *Sorular*",
+        "aciklama": "Merak ettiklerinizin cevaplarını burada bulabilirsiniz.",
+        "liste": [
+            {
+                "soru": "Kilo verme programı ne kadar sürer?",
+                "cevap": "Kilo verme sürecinin süresi kişinin başlangıç kilosu, hedef kilosu ve metabolik özelliklerine bağlı olarak değişir. Ortalama olarak sağlıklı kilo kaybı haftada 0,5-1 kg arası olmalıdır."
+            },
+            {
+                "soru": "Online danışmanlık nasıl çalışır?",
+                "cevap": "Online danışmanlık video konferans üzerinden gerçekleşir. İlk görüşmede detaylı anamnez alınır, beslenme programınız hazırlanır ve düzenli takipleriniz yapılır."
+            },
+            {
+                "soru": "Beslenme programı ne sıklıkla güncellenir?",
+                "cevap": "Programlar genellikle 15 gün arayla kontrol edilir ve gerekli güncellemeler yapılır. Kilo kaybı durumu ve yaşam koşullarındaki değişiklikler dikkate alınarak revize edilir."
+            },
+            {
+                "soru": "Hangi yaş grubuna hizmet veriyorsunuz?",
+                "cevap": "2 yaşından itibaren tüm yaş gruplarına hizmet veriyoruz. Çocuk, ergen, yetişkin ve yaşlı beslenmesi konularında uzman ekibimiz bulunmaktadır."
+            },
+            {
+                "soru": "Özel sağlık durumları için program yapılır mı?",
+                "cevap": "Evet, diyabet, hipertansiyon, kolesterol yüksekliği, PCOS gibi özel durumlar için medikal beslenme tedavisi programları hazırlanmaktadır."
+            }
+        ]
+    },
+    "iletisim": {
+        "ust_baslik": "Bize Ulaşın",
+        "baslik": "İletişim",
+        "aciklama": "Randevu ve bilgi için formu doldurabilir ya da doğrudan bize ulaşabilirsiniz.",
+        "form_baslik": "Bizimle İletişime Geçin",
+        "telefon": "+90 312 123 45 67",
+        "eposta": "info@aysekaya.com.tr",
+        "adres": "Yahyakaptan, Akasyalar Cd. No:24, 41000 İzmit/Kocaeli",
+        "saatler": "Pazartesi - Cuma: 09:00 - 18:00\nCumartesi: 09:00 - 14:00\nPazar: Kapalı",
+        "harita_link": "https://maps.app.goo.gl/6bPh1ZyNCRNWULm79",
+        "harita_goster": true,
+        "arama_butonu": true
+    },
+    "footer": {
+        "aciklama": "Instagram ve diğer sosyal medya kanallarımızdan takip etmek için alttaki bağlantıları kullanabilirsiniz.",
+        "telif": "© 2026 Dyt. Ayşe Kaya. Tüm hakları saklıdır.",
+        "instagram": "https://www.instagram.com/",
+        "facebook": "",
+        "youtube": "",
+        "linkedin": "https://www.linkedin.com/",
+        "tiktok": "",
+        "x": ""
+    },
+    "kvkk": {
+        "bant_goster": true,
+        "bant_baslik": "Çerez Tercihleriniz",
+        "bant_metni": "Sitemiz reklam veya takip çerezi kullanmaz. Onay verirseniz harita ve videolar için Google ve YouTube çerezleri kullanılabilir.",
+        "form_onay": "[metin]'ni okudum; mesajımda paylaştığım bilgilerin bu kapsamda işlenmesini kabul ediyorum.",
+        "aydinlatma_metni": "**1. Veri Sorumlusu**\n6698 sayılı Kişisel Verilerin Korunması Kanunu (\"KVKK\") uyarınca kişisel verileriniz, veri sorumlusu sıfatıyla {site_adi} tarafından aşağıda açıklanan kapsamda işlenmektedir.\nAdres: {adres}\nE-posta: {eposta}\nTelefon: {telefon}\n\n**2. İşlenen Kişisel Verileriniz**\nİletişim formu, WhatsApp, telefon veya e-posta yoluyla bizimle iletişime geçtiğinizde paylaştığınız ad soyad (kimlik), telefon numarası ve e-posta adresi (iletişim) bilgileriniz ile mesajınızın içeriği işlenir. Mesajınızda boy, kilo, hastalık veya ilaç bilgisi gibi sağlık verilerinizi paylaşmanız halinde bu bilgiler özel nitelikli kişisel veri olarak işlenir.\n\n**3. İşleme Amaçları ve Saklama Süresi**\nKişisel verileriniz; soru ve taleplerinize yanıt verilmesi, randevu planlanması, beslenme danışmanlığı hizmetinin sunulması ve takibinin yapılması ile yasal yükümlülüklerin yerine getirilmesi amaçlarıyla işlenir. Verileriniz bu amaçların gerektirdiği süre ve ilgili mevzuatta öngörülen süreler boyunca saklanır; sürenin sonunda silinir, yok edilir veya anonim hale getirilir.\n\n**4. Toplama Yöntemi ve Hukuki Sebep**\nKişisel verileriniz, internet sitemizdeki iletişim formu ve iletişim bağlantıları aracılığıyla elektronik ortamda toplanır. Kimlik ve iletişim verileriniz KVKK'nın 5/2-c (bir sözleşmenin kurulması veya ifasıyla doğrudan ilgili olması) ve 5/2-f (meşru menfaat) bentlerine; sağlık verileriniz ise KVKK'nın 6. maddesi uyarınca açık rızanıza dayanılarak işlenir.\n\n**5. Kişisel Verilerin Aktarılması**\nİletişim formunu gönderdiğinizde mesajınız, cihazınızdaki WhatsApp uygulaması aracılığıyla bize iletilir. Bu nedenle verileriniz, WhatsApp hizmetini sağlayan Meta Platforms'un yurt dışındaki sunucularında KVKK'nın 9. maddesindeki şartlar çerçevesinde işlenebilir. Kişisel verileriniz bunun dışında yalnızca yasal yükümlülükler kapsamında yetkili kamu kurum ve kuruluşlarıyla paylaşılır.\n\n**6. Vücut Kitle İndeksi (VKİ) Hesaplama**\nSitemizdeki VKİ hesaplaması tamamen tarayıcınızda yapılır; girdiğiniz boy ve kilo bilgileri sunucumuza gönderilmez ve saklanmaz. Bu bilgiler yalnızca \"Sonucumu Diyetisyene Gönder\" butonuna basmanız halinde WhatsApp üzerinden tarafımıza iletilir.\n\n**7. Haklarınız**\nKVKK'nın 11. maddesi uyarınca; kişisel verilerinizin işlenip işlenmediğini öğrenme, işlenmişse buna ilişkin bilgi talep etme, işlenme amacını ve amacına uygun kullanılıp kullanılmadığını öğrenme, yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme, eksik veya yanlış işlenmişse düzeltilmesini isteme, KVKK'nın 7. maddesindeki şartlar çerçevesinde silinmesini veya yok edilmesini isteme, bu işlemlerin verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme, münhasıran otomatik sistemlerle analiz edilmesi sonucu aleyhinize bir sonucun ortaya çıkmasına itiraz etme ve kanuna aykırı işleme nedeniyle zarara uğramanız halinde zararın giderilmesini talep etme haklarına sahipsiniz.\n\n**8. Başvuru**\nHaklarınıza ilişkin taleplerinizi {eposta} adresine e-posta göndererek veya {adres} adresine yazılı olarak iletebilirsiniz. Başvurularınız en geç 30 gün içinde ücretsiz olarak sonuçlandırılır.",
+        "cerez_metni": "**Çerez nedir?**\nÇerezler, ziyaret ettiğiniz internet siteleri tarafından tarayıcınıza kaydedilen küçük metin dosyalarıdır. Benzer amaçlarla tarayıcının yerel depolama alanı da kullanılabilir.\n\n**Zorunlu kayıtlar**\n{site_adi} internet sitesi, ziyaretçilerine reklam veya takip amaçlı çerez yerleştirmez. Yalnızca çerez tercihinizi hatırlamak için tarayıcınızın yerel depolama alanına bir kayıt bırakılır. Bu kayıt sitenin düzgün çalışması için gereklidir ve onayınıza bağlı değildir.\n\n**Onayınıza bağlı üçüncü taraf hizmetler**\n• Google Haritalar: İletişim bölümündeki harita Google tarafından gösterilir ve çerez kullanabilir.\n• YouTube: Galerideki videolar YouTube'un gelişmiş gizlilik modunda oynatılır; oynatma sırasında YouTube çerez ve benzeri teknolojiler kullanabilir.\nBu hizmetler yalnızca \"Kabul Et\" seçeneğini seçmeniz veya ilgili içeriği ayrıca açmanız halinde yüklenir.\n\n**Çerez kullanmayan dış hizmetler**\nSayfanın yazı tipleri (Google Fonts), ikonları (cdnjs) ve fotoğrafları (wsrv.nl, YouTube kapak görselleri) dış sunuculardan yüklenir. Bu hizmetler çerez bırakmaz; ancak dosyaların size iletilebilmesi için IP adresiniz teknik olarak bu sunuculara ulaşır.\n\n**Tercihinizi nasıl değiştirirsiniz?**\nSayfanın en altındaki \"Çerez Tercihleri\" bağlantısıyla seçiminizi dilediğiniz zaman değiştirebilirsiniz. Tarayıcınızın ayarlarından da çerezleri silebilir veya engelleyebilirsiniz."
+    }
+}
