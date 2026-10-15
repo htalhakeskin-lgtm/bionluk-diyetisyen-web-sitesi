@@ -1,0 +1,25 @@
+# Gizli dosyalar ve ortam değişkenleri
+.env*
+!.env.example
+
+# Yerel veri ve geliştirme
+node_modules
+veriler.txt
+
+# PHP kaynak dosyaları (statik deploy — bunlar Vercel'de çalışmaz)
+*.php
+
+# Git
+.git
+
+# Görseller klasörü (proje ekran görüntüleri, deploy'a gerek yok)
+görseller
+
+# Teslim notları
+TESLIM-NOTLARI.md
+
+# IDE ve OS
+.vscode
+.idea
+Thumbs.db
+.DS_Store

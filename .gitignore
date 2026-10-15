@@ -5,6 +5,12 @@
 !admin.php
 !index.php
 !veriler.txt
+!vercel.json
+!.vercelignore
+!TESLIM-NOTLARI.md
+!README.md
+!_static_output/
+!_static_output/**
 
 # .gitignore kendisi
 !.gitignore
