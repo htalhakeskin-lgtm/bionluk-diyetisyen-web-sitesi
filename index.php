@@ -1338,6 +1338,8 @@ section[id] { scroll-margin-top: 72px; }
 .alt-yasal { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 20px; }
 .alt-son .alt-yasal a, .alt-yasal button { font-size: 13.5px; font-weight: 600; color: rgba(255, 255, 255, .7); transition: color .2s; }
 .alt-son .alt-yasal a:hover, .alt-yasal button:hover { color: #fff; }
+.alt-imza { margin-top: 18px; text-align: center; font-size: 12px; font-weight: 600; letter-spacing: .04em; color: rgba(255, 255, 255, .4); }
+.alt-imza-isim { color: rgba(255, 255, 255, .75); font-weight: 700; }
 
 /* ---------- Çerez bandı ---------- */
 .cerez {
@@ -2139,6 +2141,7 @@ section[id] { scroll-margin-top: 72px; }
             <?php endif; ?>
             <a class="alt-yukari" href="#anasayfa">Yukarı Çık <i class="fa-solid fa-arrow-up"></i></a>
         </div>
+        <p class="alt-imza"><span lang="en">Created by</span> <span class="alt-imza-isim">Talha Keskin</span></p>
     </div>
 </footer>
 
